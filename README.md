@@ -374,6 +374,7 @@ _Valuable links, that don't fit in any of the above categories (yet!)._
 - [HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your database data.
 - [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - List of ADB intents to control Android Devices.
 - [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editting your configuration.
+- [Zigbee Device Compatibility Repository](https://zigbee.blakadder.com/index.html) - List of Zigbee devices supported by Zigbee2MQTT, ZHA, deCONZ, ZiGate, Zigbee2Tasmota or ioBroker.zigbee.
 
 ## Alternative Home Automation Software
 
